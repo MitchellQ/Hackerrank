@@ -1,0 +1,7 @@
+C:\Users\Mitch\source\repos\FindDigits\FindDigits\bin\Debug\FindDigits.exe.config
+C:\Users\Mitch\source\repos\FindDigits\FindDigits\bin\Debug\FindDigits.exe
+C:\Users\Mitch\source\repos\FindDigits\FindDigits\bin\Debug\FindDigits.pdb
+C:\Users\Mitch\source\repos\FindDigits\FindDigits\obj\Debug\FindDigits.csprojAssemblyReference.cache
+C:\Users\Mitch\source\repos\FindDigits\FindDigits\obj\Debug\FindDigits.csproj.CoreCompileInputs.cache
+C:\Users\Mitch\source\repos\FindDigits\FindDigits\obj\Debug\FindDigits.exe
+C:\Users\Mitch\source\repos\FindDigits\FindDigits\obj\Debug\FindDigits.pdb

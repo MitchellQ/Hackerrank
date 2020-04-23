@@ -1,0 +1,7 @@
+C:\Users\Mitch\source\repos\BeautifulDayAtTheMovies\BeautifulDayAtTheMovies\bin\Debug\BeautifulDayAtTheMovies.exe.config
+C:\Users\Mitch\source\repos\BeautifulDayAtTheMovies\BeautifulDayAtTheMovies\bin\Debug\BeautifulDayAtTheMovies.exe
+C:\Users\Mitch\source\repos\BeautifulDayAtTheMovies\BeautifulDayAtTheMovies\bin\Debug\BeautifulDayAtTheMovies.pdb
+C:\Users\Mitch\source\repos\BeautifulDayAtTheMovies\BeautifulDayAtTheMovies\obj\Debug\BeautifulDayAtTheMovies.csprojAssemblyReference.cache
+C:\Users\Mitch\source\repos\BeautifulDayAtTheMovies\BeautifulDayAtTheMovies\obj\Debug\BeautifulDayAtTheMovies.csproj.CoreCompileInputs.cache
+C:\Users\Mitch\source\repos\BeautifulDayAtTheMovies\BeautifulDayAtTheMovies\obj\Debug\BeautifulDayAtTheMovies.exe
+C:\Users\Mitch\source\repos\BeautifulDayAtTheMovies\BeautifulDayAtTheMovies\obj\Debug\BeautifulDayAtTheMovies.pdb

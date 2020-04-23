@@ -1,0 +1,7 @@
+C:\Users\Mitch\source\repos\ExtraLongFactorial\ExtraLongFactorial\bin\Debug\ExtraLongFactorial.exe.config
+C:\Users\Mitch\source\repos\ExtraLongFactorial\ExtraLongFactorial\bin\Debug\ExtraLongFactorial.exe
+C:\Users\Mitch\source\repos\ExtraLongFactorial\ExtraLongFactorial\bin\Debug\ExtraLongFactorial.pdb
+C:\Users\Mitch\source\repos\ExtraLongFactorial\ExtraLongFactorial\obj\Debug\ExtraLongFactorial.csprojAssemblyReference.cache
+C:\Users\Mitch\source\repos\ExtraLongFactorial\ExtraLongFactorial\obj\Debug\ExtraLongFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Mitch\source\repos\ExtraLongFactorial\ExtraLongFactorial\obj\Debug\ExtraLongFactorial.exe
+C:\Users\Mitch\source\repos\ExtraLongFactorial\ExtraLongFactorial\obj\Debug\ExtraLongFactorial.pdb

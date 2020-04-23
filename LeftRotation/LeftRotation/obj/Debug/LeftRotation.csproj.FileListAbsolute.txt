@@ -1,0 +1,7 @@
+C:\Users\Mitch\source\repos\LeftRotation\LeftRotation\bin\Debug\LeftRotation.exe.config
+C:\Users\Mitch\source\repos\LeftRotation\LeftRotation\bin\Debug\LeftRotation.exe
+C:\Users\Mitch\source\repos\LeftRotation\LeftRotation\bin\Debug\LeftRotation.pdb
+C:\Users\Mitch\source\repos\LeftRotation\LeftRotation\obj\Debug\LeftRotation.csprojAssemblyReference.cache
+C:\Users\Mitch\source\repos\LeftRotation\LeftRotation\obj\Debug\LeftRotation.csproj.CoreCompileInputs.cache
+C:\Users\Mitch\source\repos\LeftRotation\LeftRotation\obj\Debug\LeftRotation.exe
+C:\Users\Mitch\source\repos\LeftRotation\LeftRotation\obj\Debug\LeftRotation.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mitch\source\repos\2DArray\2DArray\bin\Debug\2DArray.exe.config
+C:\Users\Mitch\source\repos\2DArray\2DArray\bin\Debug\2DArray.exe
+C:\Users\Mitch\source\repos\2DArray\2DArray\bin\Debug\2DArray.pdb
+C:\Users\Mitch\source\repos\2DArray\2DArray\obj\Debug\2DArray.csprojAssemblyReference.cache
+C:\Users\Mitch\source\repos\2DArray\2DArray\obj\Debug\2DArray.csproj.CoreCompileInputs.cache
+C:\Users\Mitch\source\repos\2DArray\2DArray\obj\Debug\2DArray.exe
+C:\Users\Mitch\source\repos\2DArray\2DArray\obj\Debug\2DArray.pdb
