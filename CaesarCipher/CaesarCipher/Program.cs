@@ -19,14 +19,24 @@ namespace CaesarCipher
 
             string result = CaesarCipher(s, k);
 
-            Console.WriteLine(result);
+            //Console.WriteLine(result);
         }
 
+        /// <summary>
+        /// Rotates the alphabet k number of times and the encrypts the string s before returning
+        /// 
+        /// A dictionary is used for o(1) lookup of encrypted characters
+        /// </summary>
+        /// <param name="s">The string to be encrypted</param>
+        /// <param name="k">The number of characters to the left that the array will be rotated</param>
+        /// <returns></returns>
         private static string CaesarCipher(string s, int k)
         {
             char[] alphabet = "abcdefghijklmnopqrstuvwxyz".ToCharArray();
-            List<char> rotated = alphabet.Skip(k).ToList();
-            rotated.AddRange(alphabet.Take(k));
+            //If k is greater than 26 this line is used to find the position of the encrypted 'a'
+            int dividend = k % 26;
+            List<char> rotated = alphabet.Skip(dividend).ToList();            
+            rotated.AddRange(alphabet.Take(dividend));
 
             Dictionary<char, char> encrytedAlphabet = alphabet.Zip(rotated, (a, b) => new { a, b}).ToDictionary(item => item.a, item => item.b);
 
