@@ -25,36 +25,49 @@ namespace HackerRankInAString
 
         private static string HackerrankInString(string input)
         {
-            string toCompare = "hackerrank";
+            string toContain = "hackerrank";
+            bool doesContain = false;
 
-            SortedDictionary<char, int> toCompareCharCount = new SortedDictionary<char, int>();
-            SortedDictionary<char, int> inputCharCount = new SortedDictionary<char, int>();
-            foreach (char c in toCompare)
+            for(int i = 0; i < input.Length - 9; i++)
             {
-                if (toCompareCharCount.ContainsKey(c))
-                    toCompareCharCount[c]++;
-                else
-                    toCompareCharCount[c] = 1;
-            }
+                if (input[i] != toContain[0]) continue;
 
-            
-            foreach (char c in input)
-            {
-                if (toCompare.Contains(c))
-                {
-                    if (inputCharCount.ContainsKey(c))
-                        inputCharCount[c]++;
-                    else
-                        inputCharCount[c] = 1;
-                }                
-            }
 
-            int count = 0;
-            foreach (KeyValuePair<char, int> kvp in toCompareCharCount)
-                if(inputCharCount.ContainsKey(kvp.Key) && inputCharCount[kvp.Key] >= kvp.Value) count++;
+            }
             
 
-            return count == toCompareCharCount.Count() ? "YES" : "NO";
+            return doesContain ? "YES" : "NO";
         }
     }
 }
+//First attempt which failed because you need to make the string in sequence rather in any order
+//string toCompare = "hackerrank";
+
+//SortedDictionary<char, int> toCompareCharCount = new SortedDictionary<char, int>();
+//SortedDictionary<char, int> inputCharCount = new SortedDictionary<char, int>();
+//foreach (char c in toCompare)
+//{
+//    if (toCompareCharCount.ContainsKey(c))
+//        toCompareCharCount[c]++;
+//    else
+//        toCompareCharCount[c] = 1;
+//}
+
+            
+//foreach (char c in input)
+//{
+//    if (toCompare.Contains(c))
+//    {
+//        if (inputCharCount.ContainsKey(c))
+//            inputCharCount[c]++;
+//        else
+//            inputCharCount[c] = 1;
+//    }                
+//}
+
+//int count = 0;
+//foreach (KeyValuePair<char, int> kvp in toCompareCharCount)
+//    if(inputCharCount.ContainsKey(kvp.Key) && inputCharCount[kvp.Key] >= kvp.Value) count++;
+            
+
+//return count == toCompareCharCount.Count()? "YES" : "NO";
